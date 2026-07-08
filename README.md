@@ -1,12 +1,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=al1ndas&theme=transparent&hide_border=true&card_width=1080" alt="GitHub Streak" />
+[![Alindas's GitHub stats](https://github-readme-stats.vercel.app/api?username=al1ndas)](https://github.com/al1ndas/github-readme-stats)
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al1ndas&theme=transparent&hide_border=true&layout=compact" alt="GitHub Streak" width="42%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=al1ndas&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Streak" width="55.32%"/>
-<p>
 
 
 
